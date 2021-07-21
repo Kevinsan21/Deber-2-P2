@@ -12,6 +12,11 @@
 
 # 2. MARCO TEORICO
 
+.Capitulo 9
+
+
+.Capitulo 10
+
 
 # 3. RESOLUCION DE EJERCICIOS
 
