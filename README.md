@@ -25,8 +25,39 @@
 ![image](https://user-images.githubusercontent.com/84421020/126581432-be1af4b3-d847-4c1c-a82b-99b3d8cb70f6.png)
 
 # 3. RESOLUCION DE EJERCICIOS
-
-
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0001.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0002.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0003.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0004.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0005.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0006.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0007.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0008.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0009.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0010.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0011.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0012.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0013.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0014.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0015.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0016.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0017.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0018.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0019.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0020.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0021.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0022.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0023.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0024.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0025.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0026.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0027.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0028.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0029.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0030.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0031.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0032.jpg)
+![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0033.jpg)
 
 # 5.VIDEO.
 
