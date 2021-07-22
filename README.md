@@ -6,7 +6,11 @@
 
 . Vanessa Cayambe
 
-# 1. OBJETIVOS
+# 1. TEMA
+# Teoremas de Redes 
+# Capacitores y Capacitancia 
+
+# 2. OBJETIVOS
 . Analizar teorema de redes y capacitores para una mejor resolucion de cada uno de los circuitos que se presenten.
 
 . Obtener un mejor conocimiento de teoremas de redes para poder disminuir la difiscultad del circuito en el que estemos trabajando.
@@ -14,7 +18,7 @@
 . Definir lo que es un capacitor para tener en cuenta su funcionamiento y no provocar que este explote.
 
 
-# 2. MARCO TEORICO
+# 3. MARCO TEORICO
 
 .Capitulo 9
 
@@ -24,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/84421020/126581432-be1af4b3-d847-4c1c-a82b-99b3d8cb70f6.png)
 
-# 3. RESOLUCION DE EJERCICIOS
+# 4. RESOLUCION DE EJERCICIOS
 ![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0001.jpg)
 ![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0002.jpg)
 ![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0003.jpg)
@@ -60,11 +64,11 @@
 ![image](https://github.com/Kevinsan21/Imagenes-Deber2-P2/blob/main/Capitulos9-10%20(2)_pages-to-jpg-0033.jpg)
 
 # 5.VIDEO.
-
+https://www.youtube.com/watch?v=bYXXxo2O0cY
 
 
 # 6.CONCLUSIONES.
-
+Se puede concluir que la capacitanca de un capacitor es directamente proporcional al area de las placas e inversamente proporcional a la distancia que existe entre ellas.
 
 
 # 7.BIBLIOGRAFIA.
