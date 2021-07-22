@@ -7,7 +7,9 @@
 . Vanessa Cayambe
 
 # 1. OBJETIVOS
-. 
+. Analizar teorema de redes y capacitores para una mejor resolucion de cada uno de los circuitos que se presenten.
+. Obtener un mejor conocimiento de teoremas de redes para poder disminuir la difiscultad del circuito en el que estemos trabajando.
+. Definir lo que es un capacitor para tener en cuenta su funcionamiento y no provocar que este explote.
 
 
 # 2. MARCO TEORICO
