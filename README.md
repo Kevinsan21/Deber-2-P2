@@ -14,7 +14,7 @@
 
 .Capitulo 9
 
-![image](https://user-images.githubusercontent.com/84421020/126576677-6c708d90-400b-42f9-a0be-2ba7666df756.png)
+![image](https://user-images.githubusercontent.com/84421020/126576819-3322a500-bb23-4606-b6d9-766c1c16b3f7.png)
 
 .Capitulo 10
 
