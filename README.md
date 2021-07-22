@@ -68,8 +68,7 @@ https://www.youtube.com/watch?v=bYXXxo2O0cY
 
 
 # 6.CONCLUSIONES.
-Se puede concluir que la capacitanca de un capacitor es directamente proporcional al area de las placas e inversamente proporcional a la distancia que existe entre ellas.
-
+Se puede concluir que la capacitancia de un capacitor es directamente proporcional al area de las placas e inversamente proporcional a la distancia que existe entre ellas.
 
 # 7.BIBLIOGRAFIA.
 
