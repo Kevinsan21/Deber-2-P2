@@ -18,6 +18,7 @@
 
 .Capitulo 10
 
+![image](https://user-images.githubusercontent.com/84421020/126581432-be1af4b3-d847-4c1c-a82b-99b3d8cb70f6.png)
 
 # 3. RESOLUCION DE EJERCICIOS
 
